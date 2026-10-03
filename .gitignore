@@ -1,0 +1,12 @@
+cat > .gitignore <<'EOF'
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+experiments/
+*.joblib
+.DS_Store
+.idea/
+.vscode/
+EOF

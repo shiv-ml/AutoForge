@@ -1,0 +1,14 @@
+streamlit>=1.40
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+plotly>=5.18
+joblib>=1.3
+optuna>=3.5
+# optional extra models (picked up automatically when installed)
+# xgboost
+# lightgbm
+# catboost
+# dev
+pytest>=8
